@@ -24,7 +24,13 @@ yarn-error.log*
 
 # local files
 .idea
-.vscode
 /.idea
 /.idea/
 /.idea/*
+/.idea/inspectionProfiles/
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/diffai-frontend.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
